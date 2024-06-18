@@ -1,5 +1,3 @@
-![Header](img/banner.gif)
-
 ## ⚡ Привет, я Java Backend Developer
 
 ### 💻 Технологии
